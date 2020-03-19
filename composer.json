@@ -1,12 +1,24 @@
 {
     "name": "larapress/platform",
-    "type": "project",
-    "description": "The LaraPress Platform.",
+    "type": "larapress-project",
+    "description": "The LaraPress Platform is a laravel based wordpress like application.",
     "keywords": [
         "platform",
         "laravel",
-        "larapress"
+        "larapress",
+        "wordpress"
     ],
+    "support": {
+        "issues": "https://gitlab.com/larapress/platform/issues",
+        "document": "http://docs.larapress.app"
+    },
+    "authors": [
+        {
+          "name": "Patrick Stewart",
+          "email": "mrpastewart@larapress.app",
+          "homepage": "http://www.larapress.app/"
+        }
+      ],
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
