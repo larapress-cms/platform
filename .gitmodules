@@ -1,0 +1,3 @@
+[submodule "core/base"]
+	path = core/base
+	url = git@gitlab.com:larapress-core/base.git
