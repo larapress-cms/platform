@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace LaraPress\App\Http\Middleware;
 
-use App\Providers\RouteServiceProvider;
+use LaraPress\App\Providers\RouteServiceProvider;
 use Closure;
 use Illuminate\Support\Facades\Auth;
 
